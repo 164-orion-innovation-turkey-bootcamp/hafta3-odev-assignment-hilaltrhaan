@@ -1,9 +1,37 @@
-# 3. Hafta Ödevi
 
-Bir web uygulamasında kullanıcı kaydı ve kullanıcı girişi demosu hazırlayınız. Reactive form yaklaşımı kullanınız ve validasyonlarla 
-uygulamanın güvenilirliğini sağlayınız. Hata mesajları ile kullanıcı dostu bir tasarım kurgulayınız. Kullanıcı kayıtlarını bir json dosyasına
-yazdırıp, kullanıcı girişi yapılırken bu json dosyasından kontrol sağlayınız. Kullanıcı girişi yapıldıktan sonra herhangi bir içerik gösteriniz.
-Kullanıcı girişi yapılmadan uygulama da ki içerikler görüntülenmemlidir. 
-(Kullanıcı girişi yapıldıktan sonra, Local Storage da kullanıcı bilgileri saklanabilir)
+# User registration and User login Demo
 
-https://github.com/typicode/json-server api uygulama için kullanılabilir.
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://link-to-project
+```
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  ng serve
+```
+
+
+## Screenshots
+
+![App Screenshot](![1](https://user-images.githubusercontent.com/88663001/158035487-eea3de30-2b57-46f1-98bd-0f602b4279db.PNG)
+
+![App Screenshot](![2](https://user-images.githubusercontent.com/88663001/158035497-87458a8b-6aed-4657-b245-4ce61d07ea3a.PNG)
+
