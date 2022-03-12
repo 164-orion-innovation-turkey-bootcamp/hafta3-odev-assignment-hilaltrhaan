@@ -31,8 +31,7 @@ Start the server
 
 ## Screenshots
 ![1](https://user-images.githubusercontent.com/88663001/158035538-3b694f05-3564-4181-8126-73b6fc2a05e1.PNG)
-                                  LOGİN EKRANI
-
+                                  
 ![2](https://user-images.githubusercontent.com/88663001/158035542-9d760789-d179-410c-ab27-8a194f65f99d.PNG)
 
 ![3](https://user-images.githubusercontent.com/88663001/158035546-6b8511e7-a60e-42b7-b0ef-24e456399a8c.PNG)
