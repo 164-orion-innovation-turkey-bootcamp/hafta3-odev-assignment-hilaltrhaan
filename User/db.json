@@ -1,0 +1,15 @@
+{
+  "posts": [],
+
+
+
+  "signupUsers": [
+    {
+      "name": "Hilal",
+      "surname": "Turhan",
+      "email": "hilalturhan@gmail.com",
+      "password": "128123.",
+      "id": 1
+    }
+  ]
+}

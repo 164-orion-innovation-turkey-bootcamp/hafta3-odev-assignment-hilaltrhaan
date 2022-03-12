@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@500&display=swap');
+
+.card{
+    border: none;
+    width: 400px;
+    height: 570px;
+    padding:50px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #fff;
+    border-radius: 15px;
+     box-shadow: 2px 2px 6px rgb(97, 92, 92);
+    font-family: 'Fredoka', sans-serif;
+}
+
+.card h3,
+h6{
+   color: #E64C80;
+    font-family: 'Fredoka', sans-serif;
+}
+
+label{
+      color: #E64C80;
+    font-family: 'Fredoka', sans-serif;
+}
+input{
+ background-color:#F6F6F6;
+ border: solid 1px #D9D9D9;
+
+}

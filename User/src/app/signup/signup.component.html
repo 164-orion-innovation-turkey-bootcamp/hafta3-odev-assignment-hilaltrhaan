@@ -1,0 +1,35 @@
+<div class="container">
+
+  <!-- Signup ekranı html için kodları -->
+    <div class="row">
+        <div class="col-md-6">
+            <div class="card">
+                <div class="text-center">
+                    <h3>Sign Up</h3>
+                </div>
+                    <form [formGroup]="signupForm" (ngSubmit)="signUp()">
+                        <div class="mb-3">
+                            <label for="exampleInputPassword1" class="form-label">Name</label>
+                            <input formControlName="name" type="text" class="form-control" id="exampleInputPassword1">
+                          </div>
+                          <div class="mb-3">
+                            <label for="exampleInputPassword1" class="form-label">Surname</label>
+                            <input formControlName="surname" type="text" class="form-control" id="exampleInputPassword1">
+                          </div>
+                        <div class="mb-3">
+                          <label for="exampleInputEmail1" class="form-label">Email address</label>
+                          <input formControlName="email" type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+                          <div id="emailHelp" class="form-text"></div>
+                        </div>
+                        <div class="mb-3">
+                          <label for="exampleInputPassword1" class="form-label">Password</label>
+                          <input formControlName="password" type="password" class="form-control" id="exampleInputPassword1">
+                        </div>
+                        <button type="submit" class="btn btn-danger">Sign Up</button>
+                      </form>
+                      <a style="color:#5e5e5e; margin-top: 10px;" routerLink="/login">Click to Login</a>
+
+            </div>
+        </div>
+    </div>
+</div>
